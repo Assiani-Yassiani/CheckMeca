@@ -10,7 +10,7 @@ AI-powered platform that automatically detects and locates errors in technical p
 
 Click the image to watch the demo video.
 
-[![CheckMeca demo video](assets/demo.png)](https://vimeo.com/1250537734)
+[![CheckMeca demo video](demo.png)](https://vimeo.com/1250537734)
 
 ## ✨ Features
 
